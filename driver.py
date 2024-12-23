@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+# Part of python-LCD03. See LICENSE file for full copyright and licensing details.
+
 import LCD03.commands as lcd_cmd
 import smbus
 from time import sleep

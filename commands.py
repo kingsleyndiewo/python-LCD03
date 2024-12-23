@@ -1,4 +1,7 @@
-# I2C Commands for the LCD03
+# -*- coding: utf-8 -*-
+# Part of python-LCD03. See LICENSE file for full copyright and licensing details.
+
+""" I2C Commands for the LCD03 module """
 
 NO_OP = 0x00
 CURSOR_HOME = 0x01
